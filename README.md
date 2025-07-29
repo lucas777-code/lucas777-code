@@ -1,12 +1,26 @@
-## Hi there 👍😎🤟
-Eu sou lucas , atleta a procura de um clube de futebol , para disputar a federação paulista 
-treino todos os dias em busca de algo la na frente
-sou estudante e atualmente cursando nom senai , tecnico em desenvolvimento de sistemas
+Olá, sou Lucas Comparini Pegoraro
 
+Sou desenvolvedor de sistemas em formação pelo SENAI Jacob Lafer, com conclusão prevista para dezembro de 2025. Durante meus dois anos de curso e prática profissional, desenvolvi competências sólidas no desenvolvimento de sistemas , atuando tanto no Front-end quanto no Back-end.
 
+Domino linguagens e tecnologias como HTML e CSS, além de possuir conhecimento em boas práticas de programação, segurança da informação e integração de sistemas.
 
+Complementando minha formação técnica, realizei diversos cursos, entre eles:
 
-# Habilidade só se desenvolve com horas e horas de trabalho.
+Competência Transversal – Lógica de Programação
+
+Competência Transversal – Segurança no Trabalho
+
+Desvendando o 5G
+
+Economia Circular
+
+Excel Básico
+
+Privacidade e Proteção de Dados
+
+Por Dentro da Segurança Cibernética
+
+Tenho interesse em criar soluções que otimizem processos e melhorem a experiência do usuário, sempre buscando aprender novas tecnologias e acompanhar as tendências do setor.
 
 ![neymar](https://github.com/user-attachments/assets/6e75d368-aea1-4805-8b7d-da5e110fdb62)
 
