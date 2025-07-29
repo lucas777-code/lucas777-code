@@ -22,7 +22,6 @@ Por Dentro da Segurança Cibernética
 
 Tenho interesse em criar soluções que otimizem processos e melhorem a experiência do usuário, sempre buscando aprender novas tecnologias e acompanhar as tendências do setor.
 
-![neymar](https://github.com/user-attachments/assets/6e75d368-aea1-4805-8b7d-da5e110fdb62)
 
 
 <!--
