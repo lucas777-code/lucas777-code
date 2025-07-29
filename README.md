@@ -21,6 +21,7 @@ Privacidade e Proteção de Dados
 Por Dentro da Segurança Cibernética
 
 Tenho interesse em criar soluções que otimizem processos e melhorem a experiência do usuário, sempre buscando aprender novas tecnologias e acompanhar as tendências do setor.
+
 Entre em contato: lcpegoraro03@gmail.com
 
 
